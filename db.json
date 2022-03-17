@@ -1,0 +1,50 @@
+[
+{
+        titulo: "Fideos",
+        precio: 500,
+        img: "https://www.recetasparaguay.com/base/stock/Recipe/92-image/92-image_web.jpg",
+        desc: "Plato de fideos con salsa bolognesa",
+      },
+      {
+        titulo: "Empanadas",
+        precio: 700,
+        img: "https://www.cronista.com/files/image/413/413115/61a8e11ba5998.jpg",
+        desc: "Empanadas de carne al horno",
+      },
+      {
+        titulo: "Hamburguesa",
+        precio: 1000,
+        img: "https://i.blogs.es/58e562/hambruguesa/1366_2000.jpg",
+        desc: "Hamburguesa con queso y panceta",
+      },
+      {
+        titulo: "Ñoquis",
+        precio: 800,
+        img: "https://www.clarin.com/img/2018/06/19/HJS8-kvW7_1256x620__2.jpg#1588085373911",
+        desc: "Ñoquis con salsa fileto",
+      },
+      {
+        titulo: "Ensalada",
+        precio: 300,
+        img: "https://www.cocinavital.mx/wp-content/uploads/2021/11/receta-de-ensalada-waldorf-634x420.jpg",
+        desc: "Ensalada Waldorf",
+      },
+      {
+        titulo: "Pollo frito",
+        precio: 500,
+        img: "https://www.comedera.com/wp-content/uploads/2018/08/pollo-frito.jpg",
+        desc: "Pollo frito",
+      },
+      {
+        titulo: "Pescado",
+        precio: 750,
+        img: "https://www.hola.com/imagenes/cocina/tecnicas-de-cocina/20200525168569/tecnica-pescado-plancha/0-827-37/salmon-verduras-z.jpg",
+        desc: "Pescado a la plancha con tomate",
+      },
+      {
+        titulo: "Pastel de papa",
+        precio: 600,
+        img: "https://resizer.glanacion.com/resizer/f-nb2JXgqshFXlZ0gt79POuCroM=/879x586/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/64RCEDBW6VBB5PRK7PTUZBS3LU.jpg",
+        desc: "Pastel de papa con aceitunas",
+      }
+]
